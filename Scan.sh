@@ -4,7 +4,7 @@ GREEN='\033[32;1m'
 NC='\033[m'
 
 echo -e "${GREEN}"
-figlet "G3 Scan"
+figlet "Vuln-Finder"
 echo "        	                  by G3"
 echo -e "${NC}"
 
